@@ -8,8 +8,8 @@
     <artifactId>blogapp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>${packaging.type}</packaging>
-    <name>quickstart</name>
-    <description>A Pippo application</description>
+    <name>blogapp</name>
+    <description>A simple blog/website application based on the Pippo framework</description>
 
     <licenses>
         <license>
